@@ -1,1 +1,1 @@
-worker: node main.js
+worker : npm i ffmepg && npm start
