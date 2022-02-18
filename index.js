@@ -82,7 +82,7 @@ offline = false // Offline and Online ( Hexagon )
 multi = true // Multi Prefix ( MyMans APIs )
 antitags = true // Antitag ( MyMans APIs )
 autoupdatebio = true
-readG = true // Auto Read Group ( MyMans APIs )
+readG = false // Auto Read Group ( MyMans APIs )
 readP = false // Auto Read Private ( MyMans APIs )
 winawal = 1 // Win Tictactoe ( MyMans APIs )
 loseawal = 1 // Lose Tictactoe ( MyMans APIs )
@@ -90,8 +90,8 @@ memberwin = 1 // Win ( MyMans APIs )
 memberlose = 1 // Lose ( MyMans APIs )
 pref = '?' // Prefix ( MyMans APIs )
 targetpc = '62882248593508' // Fitnah Target ( Hexagon )
-owner = '6288803441624' // Numbers Owner ( MyMans APIs )
-ownerNumbers = ["6288803441624@s.whatsapp.net","6288803441624@s.whatsapp.net","6288803441624@s.whatsapp.net"]
+owner = '6287832147584' // Numbers Owner ( MyMans APIs )
+ownerNumbers = ["6287832147584@s.whatsapp.net","6287832147584@s.whatsapp.net","6287832147584@s.whatsapp.net"]
 linkcom = ".com" // Anti Link ( MyMans APIs )
 linkid = ".id" // Anti Link ( MyMans APIs )
 linkxyz = ".xyz" // Anti Link ( MyMans APIs )
@@ -100,7 +100,7 @@ linkhttp = "http" // Anti Link ( MyMans APIs )
 linkwa = "://chat.whatsapp.com" // Anti Link Group Whatsapp ( MyMans APIs )
 deflt = "..........c.....com" // Default Link ( MyMans APIs )
 linknye = `${deflt}` // Anti Link ( MyMans APIs )
-fake = 'SALBOTZ' // Fake Text Reply / Name Bot ( MyMans APIs )
+fake = 'Pangeran' // Fake Text Reply / Name Bot ( MyMans APIs )
 a = '```' // Font Whatsapp ( MyMans APIs )
 bailver = '3.5.1' // Versi Baileys ( MyMans APIs )
 botver = '1.0.0' // Versi Bot ( MyMans APIs )
@@ -181,7 +181,7 @@ const checkSCommand = (id) => {
 
 vn = true
 ngetik = false
-autoupdatebio = true
+autoupdatebio = false
 
 const lolkey = '78bd89cd7b4d6205e3e18061'        
 //=================================================//
